@@ -8,7 +8,7 @@ NUCLEI_WEB_RESULTS="web_vulnerabilities.txt"
 NUCLEI_DAST_RESULTS="dast_results.txt"
 NUCLEI_INFRA_RESULTS="infra_vulnerabilities.txt"
 TELEGRAM_BOT_TOKEN=7318404259:AAE5YTQiiaQ_G_ctGl6ktyHfWylLbUqrRdw
-TELEGRAM_CHAT_ID="9629949985"  # Replace with your actual Telegram Chat ID
+TELEGRAM_CHAT_ID="9529949985"  # Replace with your actual Telegram Chat ID
 
 # === 1️⃣ Validate Input File ===
 if [ ! -f "$INPUT_FILE" ]; then
